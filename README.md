@@ -18,6 +18,7 @@ My journey is fueled by continuous learning, creativity, and the desire to build
 Driven by curiosity and innovation, I aspire to become a proficient Machine Learning engineer and leverage AI to build intelligent systems that solve real-world challenges and create meaningful impact.
 
 🛠 Skills and Tools (Learning Phase)
+
 Programming Languages
 * Java
 * Python
@@ -25,6 +26,7 @@ Programming Languages
 * C++
 
 Tools & Technologies
+
 Git & GitHub
 VS Code
 
