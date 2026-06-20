@@ -15,8 +15,8 @@ My journey is fueled by continuous learning, creativity, and the desire to build
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ovijit debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ovijit debnath" height="30" width="40" /></a>
-<a href="https://fb.com/ovijit debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ovijit debnath" height="30" width="40" /></a>
+<a href="linkedin.com/in/ovijit-debnath-52802737a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ovijit debnath" height="30" width="40" /></a>
+<a href="[https://fb.com/ovijit debnath](https://www.facebook.com/share/1l6bn92xqe/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ovijit debnath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
