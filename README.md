@@ -2,7 +2,7 @@
 
 <🎓 CSE student exploring programming fundamentals  
 📍 RUET, 2nd year, 1st semester  
-🌱 Learnt about DSA, OOP in Java, Git and Python  
+🌱 Learnt about DSA, OOP in C++ and Java, Git and Python  
 🎯 Goal: Become proficient in Machine Learning and develop intelligent solutions that solve real-world problems.
 
 
